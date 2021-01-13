@@ -20,11 +20,11 @@ body{
     width: 79px;
     height: 82px;
 }
-.catalog-box{
+/* .catalog-box{
     background: #FFFFFF;
     box-shadow: 0em 0.625em 1.875em rgba(0, 0, 0, 0.05);
     border-radius: 20px;
-}
+} */
 
 .catalog-h4{
     font-family: Roboto;
@@ -43,4 +43,7 @@ body{
 }
 .catalog-right-side-img{
     width: 100%;
+}
+.card-header-background{
+    background-color: white;
 }
