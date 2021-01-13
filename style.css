@@ -3,6 +3,7 @@ font-family: 'Roboto', sans-serif; */
 body{
     font-size: 16px;
 }
+/* nav section start */
 .nav-a{
     font-weight: 700;
     font-size: 16px;
@@ -14,25 +15,22 @@ body{
     height: 39.27px;
 
 }
-
+/* nav section end */
 .catalog-img{
     width: 79px;
     height: 82px;
 }
 .catalog-box{
-    width: 30.5625em;
-    height: 8.4375em;
     background: #FFFFFF;
     box-shadow: 0em 0.625em 1.875em rgba(0, 0, 0, 0.05);
     border-radius: 20px;
 }
 
-.catalog-h3{
+.catalog-h4{
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
-    font-size: 24px;
-   
+    font-size: 24px;  
     color: #363958;
 
 }
@@ -42,4 +40,7 @@ body{
     font-weight: normal;
     font-size: 16px;
     color: #3E3E3E;
+}
+.catalog-right-side-img{
+    width: 100%;
 }
