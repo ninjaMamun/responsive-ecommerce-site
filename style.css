@@ -47,3 +47,15 @@ body{
 .card-header-background{
     background-color: white;
 }
+
+
+
+.discount{
+    padding: 8px;
+    background-color: white;
+    border-radius: 25px;
+    
+}
+.discount-col-inside{
+    padding: 35px;
+}
