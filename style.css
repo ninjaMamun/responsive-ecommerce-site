@@ -1,0 +1,45 @@
+/* font-family: 'Bebas Neue', cursive;
+font-family: 'Roboto', sans-serif; */
+body{
+    font-size: 16px;
+}
+.nav-a{
+    font-weight: 700;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.navimg{
+    width: 291.11px;
+    height: 39.27px;
+
+}
+
+.catalog-img{
+    width: 79px;
+    height: 82px;
+}
+.catalog-box{
+    width: 30.5625em;
+    height: 8.4375em;
+    background: #FFFFFF;
+    box-shadow: 0em 0.625em 1.875em rgba(0, 0, 0, 0.05);
+    border-radius: 20px;
+}
+
+.catalog-h3{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+   
+    color: #363958;
+
+}
+.catalog-p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #3E3E3E;
+}
