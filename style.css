@@ -4,6 +4,9 @@ body{
     font-size: 16px;
 }
 /* nav section start */
+.header-style{
+    background-color:#FFFBF0 ;
+}
 .nav-a{
     font-weight: 700;
     font-size: 16px;
@@ -16,6 +19,66 @@ body{
 
 }
 /* nav section end */
+
+
+.yellow-color, .blue-color{
+    font-family: 'Bebas Neue', cursive;
+    
+}
+.yellow-color{
+    color:#FABE4C ;
+}
+.blue-color{
+    color: #363958;
+}
+.header-text{
+    font-size: 80px;
+}
+.header-image img{
+    width: 100%;
+}
+.card > img{
+    width: 60%;
+}
+.product-image{
+    padding: 20px 0px;
+    background-color: #F1F1F1;
+    border-radius: 30px;
+    height: 25em;
+}
+@media only screen and (max-width: 700px) {.woman-jacket, .man-jacket, .latest-products{
+    text-align: center;
+}
+}
+.product-title{
+    font-size: 24px;
+    color: #363958;
+}
+.product-price{
+    font-size: 36px;
+    color: #FABE4C;
+}
+.penguin-product{
+    border: 0px;
+}
+.product-footer{
+    border: 0px;
+    background-color: white;
+}
+.product-column{
+    border-radius: 20px;
+    box-shadow: 2px 5px 10px #aaa9a9;
+    padding: 10px;
+    width: 22em;
+}
+.buy-now{
+    background-image: linear-gradient(#A4BC46, #85A019);
+}
+
+
+
+
+
 .catalog-img{
     width: 79px;
     height: 82px;
@@ -48,7 +111,7 @@ body{
     background-color: white;
 }
 
-
+/* get discount section start */
 
 .discount{
     padding: 8px;
@@ -59,3 +122,4 @@ body{
 .discount-col-inside{
     padding: 35px;
 }
+/* get discount section end */
