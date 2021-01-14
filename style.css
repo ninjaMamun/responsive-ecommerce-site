@@ -143,3 +143,19 @@ body{
     padding: 35px;
 }
 /* get discount section end */
+
+
+.why-us-h5{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;  
+    color: #363958;
+}
+.why-us-p{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #3E3E3E;
+}
